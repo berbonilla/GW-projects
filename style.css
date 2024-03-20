@@ -130,7 +130,6 @@
   width: 75%;
   position: absolute;
   left:5%;
-  transition: all 0.3s ease;
 }
 
 .nav-list li a:hover  {
